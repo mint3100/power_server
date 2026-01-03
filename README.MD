@@ -71,7 +71,7 @@ mitmweb
 
 1. 메모장을 관리자 권한으로 실행합니다. (시작 메뉴 > 메모장 우클릭 > 관리자 권한으로 실행)
 2. `C:\Windows\System32\drivers\etc\hosts` 파일을 엽니다.
-3. 파일의 맨 아래에 다음 내용을 추가합니다. (TARGET_DOMAIN을 실제 대상 도메인으로 변경하십시오)
+3. 파일의 맨 아래에 다음 내용을 추가합니다.
 
 ```text
 127.0.0.1 pvmg10.sae.powervision.me
@@ -88,7 +88,7 @@ sudo nano /etc/hosts
 
 ```
 
-3. 파일의 맨 아래에 다음 내용을 추가합니다. (TARGET_DOMAIN을 실제 대상 도메인으로 변경하십시오)
+3. 파일의 맨 아래에 다음 내용을 추가합니다.
 
 ```text
 127.0.0.1 pvmg10.sae.powervision.me
