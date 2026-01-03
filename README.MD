@@ -17,7 +17,7 @@
 
 이 서버는 Node.js 환경에서 실행됩니다.
 
-1. Node.js 공식 웹사이트([https://nodejs.org/)에](https://nodejs.org/)에) 접속합니다.
+1. Node.js 공식 웹사이트([https://nodejs.org/](https://nodejs.org/))에 접속합니다.
 2. 사용 중인 운영체제(Windows, macOS, Linux)에 맞는 LTS(Long Term Support) 버전을 다운로드하여 설치합니다.
 3. 설치가 완료되면 터미널(또는 명령 프롬프트)을 열고 다음 명령어를 입력하여 정상적으로 설치되었는지 확인합니다.
 
