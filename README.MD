@@ -49,6 +49,7 @@ npm install
 
 1. mitmproxy 공식 웹사이트([https://mitmproxy.org/)에](https://mitmproxy.org/)에) 접속하여 설치 파일을 다운로드합니다.
 2. 설치가 완료되면 터미널에서 다음 명령어를 입력하여 실행할 수 있습니다.
+3. 프록시 설정은 사용할 스마트폰 제조사의 사용설명서를 참고해주십시오. (대부분의 경우 PC의 IP, 8080포트입니다. )
 
 ```bash
 mitmweb
